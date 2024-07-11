@@ -26,7 +26,7 @@ Ana ekran, barınak sisteminde kayıtlı olan kullanıcıları,hayvanları ve ü
 Sorularınız veya geri bildirimleriniz için bizimle iletişime geçebilirsiniz:
 
 - E-posta: keskinmuhammed49@gmail.com
-- GitHub: [GitHub Kullanıcı Adınız](https://github.com/MuhammedKSKN)
+- GitHub: [Muhammed Keskin](https://github.com/MuhammedKSKN)
 
 ## Ekran Görüntüleri
 
