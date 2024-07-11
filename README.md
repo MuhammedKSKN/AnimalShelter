@@ -30,9 +30,10 @@ Sorularınız veya geri bildirimleriniz için bizimle iletişime geçebilirsiniz
 
 ## Ekran Görüntüleri
 
+![YÜkleniyor](ProjeIciGorseller/Yukleniyor.png)
 ![Ana Ekran](ProjeIciGorseller/Home.png)
 ![Ürün Satın Al](ProjeIciGorseller/SatinAl.png)
-![YÜkleniyor](ProjeIciGoresller/Yukleniyor.png)
+
 ![Ürün Satın Al](ProjeIciGoresller/SatinAl.png)
 ![Ürün Görüntüle-Düzenle](ProjeIciGoresller/UrunleriDüzenle.png)
 ![Ödeme Ekranı](ProjeIciGorseller/Odeme.png)
