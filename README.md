@@ -30,15 +30,14 @@ Sorularınız veya geri bildirimleriniz için bizimle iletişime geçebilirsiniz
 
 ## Ekran Görüntüleri
 
-![YÜkleniyor](ProjeIciGorseller/Yukleniyor.png)
+![YÜkleniyor](ProjeIciGorseller/Yukleniyor.png)!
+[Giriş Yap_- Kayıt Ol](ProjeIciGorseller/GirisYap.png)
 ![Ana Ekran](ProjeIciGorseller/Home.png)
 ![Ürün Satın Al](ProjeIciGorseller/SatinAl.png)
-
 ![Ürün Satın Al](ProjeIciGoresller/SatinAl.png)
 ![Ürün Görüntüle-Düzenle](ProjeIciGoresller/UrunleriDüzenle.png)
 ![Ödeme Ekranı](ProjeIciGorseller/Odeme.png)
 ![Sahiplenme Ekranı](ProjeIciGorseller/Sahiplen.png)
-![Giriş Yap_- Kayıt Ol](ProjeIciGorseller/GirisYap.png)
 ![Kullanıcıların Borçlarının Görüntülenme Ekranı](ProjeIciGorseller/KullaniciBorcGoruntule.png)
 
 
