@@ -30,8 +30,8 @@ Sorularınız veya geri bildirimleriniz için bizimle iletişime geçebilirsiniz
 
 ## Ekran Görüntüleri
 
-![YÜkleniyor](ProjeIciGorseller/Yukleniyor.png)!
-[Giriş Yap_- Kayıt Ol](ProjeIciGorseller/GirisYap.png)
+![YÜkleniyor](ProjeIciGorseller/Yukleniyor.png)
+![Giriş Yap_- Kayıt Ol](ProjeIciGorseller/GirisYap.png)
 ![Ana Ekran](ProjeIciGorseller/Home.png)
 ![Ürün Satın Al](ProjeIciGorseller/SatinAl.png)
 ![Ürün Satın Al](ProjeIciGoresller/SatinAl.png)
