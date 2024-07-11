@@ -30,6 +30,19 @@ Sorularınız veya geri bildirimleriniz için bizimle iletişime geçebilirsiniz
 
 ## Ekran Görüntüleri
 
-![Ana Ekran](screenshots/main_screen.png)
-![Yeni Hayvan Kaydı](screenshots/new_animal.png)
+![Ana Ekran](ProjeİciGöresller/Home.png)
+![Ürün Satın Al](ProjeİciGöresller/SatınAl.png)
+![YÜkleniyor](ProjeİciGöresller/Yukleniyor.png)
+![Ürün Satın Al](ProjeİciGöresller/SatınAl.png)
+![Ürün Görüntüle-Düzenle](ProjeİciGöresller/ÜrünleriDüzenle.png)
+![Ödeme Ekranı](ProjeİciGöresller/Ödeme.png)
+![Sahiplenme Ekranı](ProjeİciGöresller/Sahiplen.png)
+![Giriş Yap_- Kayıt Ol](ProjeİciGöresller/GirisYap.png)
+![Kullanıcıların Borçlarının Görüntülenme Ekranı](ProjeİciGöresller/KullanıcıBorçGoruntule.png)
+
+
+
+
+
+
 
