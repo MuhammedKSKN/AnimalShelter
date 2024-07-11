@@ -30,15 +30,15 @@ Sorularınız veya geri bildirimleriniz için bizimle iletişime geçebilirsiniz
 
 ## Ekran Görüntüleri
 
-![Ana Ekran](ProjeİciGöresller/Home.png)
-![Ürün Satın Al](ProjeİciGöresller/SatınAl.png)
-![YÜkleniyor](ProjeİciGöresller/Yukleniyor.png)
-![Ürün Satın Al](ProjeİciGöresller/SatınAl.png)
-![Ürün Görüntüle-Düzenle](ProjeİciGöresller/ÜrünleriDüzenle.png)
-![Ödeme Ekranı](ProjeİciGöresller/Ödeme.png)
-![Sahiplenme Ekranı](ProjeİciGöresller/Sahiplen.png)
-![Giriş Yap_- Kayıt Ol](ProjeİciGöresller/GirisYap.png)
-![Kullanıcıların Borçlarının Görüntülenme Ekranı](ProjeİciGöresller/KullanıcıBorçGoruntule.png)
+![Ana Ekran](ProjeIciGoresller/Home.png)
+![Ürün Satın Al](ProjeIciGoresller/SatinAl.png)
+![YÜkleniyor](ProjeIciGoresller/Yukleniyor.png)
+![Ürün Satın Al](ProjeIciGoresller/SatinAl.png)
+![Ürün Görüntüle-Düzenle](ProjeIciGoresller/UrunleriDüzenle.png)
+![Ödeme Ekranı](ProjeIciGoresller/Odeme.png)
+![Sahiplenme Ekranı](ProjeIciGoresller/Sahiplen.png)
+![Giriş Yap_- Kayıt Ol](ProjeIciGoresller/GirisYap.png)
+![Kullanıcıların Borçlarının Görüntülenme Ekranı](ProjeIciGoresller/KullaniciBorcGoruntule.png)
 
 
 
